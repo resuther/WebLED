@@ -1,6 +1,6 @@
 ![COVER](https://user-images.githubusercontent.com/72550915/160230634-3bb080e2-5e21-42dc-bf8e-9ee3c059b87f.png)
-# WebLED
-_Use a Raspberry Pi and Arduino UNO to control Christmas lights with a website/app and sync music with it!_
+# WebLEDBells
+_Use a Raspberry Pi and Arduino UNO to control Christmas lights with a website/app and sync music (Jingle Bells) with it!_
 
 Video: https://www.youtube.com/watch?v=4WLUqSsakPU
 
