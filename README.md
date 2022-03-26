@@ -5,7 +5,24 @@ _Use a Raspberry Pi and Arduino UNO to control Christmas lights with a website/a
 
 [Video](https://www.youtube.com/watch?v=4WLUqSsakPU)
 
+[Arduino Project](https://create.arduino.cc/projecthub/resuther/arduino-raspberry-pi-website-controllable-christmas-lights-d58a2e)
+
 This project is great for Christmas time and a perfect way to change up your tree. It's fun, customizable, cheap, and not hard to do.
+
+**What you'll need:**
+1. Raspberry Pi 4 Model B
+2. Raspian
+3. Arduino UNO
+4. Arduino IDE
+5. LEDs
+6. USB-A to B Cable
+7. Buzzer/Speaker
+8. Jumper wires
+9. Breadboard (optional)
+
+**Optional:**
+
+Convert website to mobile app using [AppsGeyser](https://appsgeyser.com/blog/convert-website-to-mobile-app-free-software/).
 
 **Images:**
 
