@@ -3,6 +3,7 @@
 _Use a Raspberry Pi and Arduino UNO to control Christmas lights with a website/app and sync music with it!_
 
 Video: https://www.youtube.com/watch?v=4WLUqSsakPU
+
 This project is great for Christmas time and a perfect way to change up your tree. It's fun, customizable, cheap, and not hard to do.
 
 **Wiring Diagram:**
