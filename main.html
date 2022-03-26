@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+   <title>LED X-Mas Light</title>
+   <meta name="viewport" content="width=device-width">
+<style>
+.test{
+    height:200px;
+    width:200px;
+}
+
+.block {
+  display: block;
+  width: 326px;
+  height: 100px;
+  border: none;
+  background-color: #008ae6;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+</style>
+</head>
+
+<body>
+   <h1>LED X-Mas Lights</h1>
+   {% for pin in pins %}
+   <h2>{{ pins[pin].name }}
+   {% if pins[pin].state == true %}
+      is currently <strong>on</strong></h2><div class="row"><div class="col-md-2">
+      <a href="/{{pin}}/off" class="block" role="button">Turn off</a></div></div>
+   {% else %}
+      is currently <strong>off</strong></h2><div class="row"><div class="col-md-2">
+      <a href="/{{pin}}/on" class="block" role="button">Turn on</a></div></div>
+   {% endif %}
+   {% endfor %}
+</body>
+</html>
